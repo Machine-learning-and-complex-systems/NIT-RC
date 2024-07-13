@@ -62,23 +62,23 @@ For example, in `1D bistable gradient system with white noise/doublewell.py`, at
 
 If two switches Load=0 and Predict=0, fugure of the deterministic part would be illustrated:
 
-<img src="det.svg" style="weight: 300px;"/>
+<img src="det.png" style="weight: 300px;"/>
 
 If Load=1 and Predict=0, figures of the deterministic part and the noise distribution between true and separated would be illustrated:
 
-<img src="det.svg" style="weight: 300px;"/>
+<img src="det.png" style="weight: 300px;"/>
 
-<img src="dnoise.svg" style="weight: 300px;"/>
+<img src="dnoise.png" style="weight: 300px;"/>
 
 If Load=1 and Predict=1, figures of the predicted data, the noise distribution between true and separated and evaluations of transitions would be illustrated:
 
-<img src="predict.svg" style="weight: 300px;"/>
+<img src="predict.png" style="weight: 300px;"/>
 
-<img src="dnoise.svg" style="weight: 300px;"/>
+<img src="dnoise.png" style="weight: 300px;"/>
 
-<img src="Time.svg" style="weight: 300px;"/>
+<img src="Time.png" style="weight: 300px;"/>
 
-<img src="Times.svg" style="weight: 300px;"/>
+<img src="Times.png" style="weight: 300px;"/>
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
