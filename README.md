@@ -43,4 +43,8 @@ In order to facilitate the distinction, we divided the code into 4 folders:
 
 When we trained the RC, some matrics would be saved in a path, and we would load them in the predicting phase. We divided the data into several folders, the folder with the same name as in the code means that the data here points to this folder.
 
+## Example
+
+We provide a demonstration example.
+
 
