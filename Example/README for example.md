@@ -56,7 +56,9 @@ In `real.py`, model for training set is imported from `datafordistribution.npy`,
 # Inputs
 For example, in `1D bistable gradient system with white noise/doublewell.py`, at the beginning, figure of the training set is shown:
 
-<img src="True.svg" style="weight: 300px;"/>
+;<img src="True.svg" style="weight: 300px;"/>
+![True](True.svg)
+
 
 If two switches Load=0 and Predict=0, fugure of the deterministic part would be illustrated:
 
