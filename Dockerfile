@@ -1,4 +1,5 @@
 # hash:sha256:dee6945231f820cc262806778097a5d72e04d8be3337c71e7570ea8c0a61960b
+# The Python version can be either 3.9 or 3.10.15 (there will be slight differences in the results).
 FROM registry.codeocean.com/codeocean/miniconda3:4.12.0-python3.9-ubuntu20.04
 
 ARG DEBIAN_FRONTEND=noninteractive
