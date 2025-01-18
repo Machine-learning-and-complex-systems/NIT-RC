@@ -48,6 +48,6 @@ When we trained the RC, some matrics would be saved in a path, and we would load
 We provide a demonstration example. 
 
 ## A Note on Result
-For systems with white noise, random functions are necessary for both data generation and noise separation (def train1/2, def DoubleWell). This can lead to minor differences between 'NoiseToUse' and 'SampledNoise.' Consequently, even though we provide the trained model, the results of rolling predictions may exhibit slight variations each time.
+For systems with white noise, random functions are necessary for both data generation and noise separation (def train1/2, def DoubleWell). This can lead to minor differences in 'NoiseToUse' and 'SampledNoise' with each run. Consequently, even though we provide the trained model, the results of rolling predictions may exhibit slight variations each time.
 
 
