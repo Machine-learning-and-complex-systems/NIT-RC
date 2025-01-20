@@ -48,7 +48,7 @@ When we trained the RC, some matrics would be saved in a path, and we would load
 We provide a demonstration example. 
 
 ## A Note on Results
-For systems with white noise, 'np.random' function is necessary for both data generation and noise separation (def train1/2, def DoubleWell). This can lead to minor differences in 'NoiseToUse' and 'SampledNoise' with each run. Consequently, even though we provide the trained model, the results of rolling predictions may exhibit slight variations each time, as the scenario is not exactly the same as when these models were trained, but the overall effect is approximately similar. For the real data example, sometimes the 'np.random' may lead to numerical errors such as 'NAN'. The result can be reproduced by running it several times, and we provide an ipynb file for demonstration.
+For systems with white noise, 'np.random' functions of random matrices are necessary for both data generation and noise separation (def train1/2, def DoubleWell). This can lead to minor differences in 'NoiseToUse' and 'SampledNoise' with each run. Consequently, even though we provide the trained model, the results of rolling predictions may exhibit slight variations each time, as the scenario is not exactly the same as when these models were trained, but the overall effect is approximately similar. For the real data example, sometimes the 'np.random' may lead to numerical errors such as 'NAN'. The result can be reproduced by running it several times, and we provide an ipynb file for demonstration.
 
 
 
