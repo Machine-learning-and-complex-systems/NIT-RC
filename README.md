@@ -54,5 +54,5 @@ For systems with colored noise (two Lorenz-63 and one Lorenz-96), we saved the "
 
 ## Author's note
 
-This work is more about opening a problem: even for the simplest stochastic transitions in bistable potential, the prevailing methods SINDy, FORCE are found inadequate. Leveraging Reservoir Computing is one way out, motivating to extend the other methods, The demonstrated limitations of conventional techniques in handling noise-driven dynamics should be seen as an invitation to collective exploration. Different computational frameworks – whether reservoir computing, SINDy, or yet-to-be-discovered architectures – might offer complementary strengths when properly adapted. 
+This work is more about opening a problem: even for the simplest stochastic transitions in bistable potential, the prevailing methods SINDy, FORCE are found inadequate. Leveraging Reservoir Computing is one way out, motivating to extend the other methods. The demonstrated limitations of conventional techniques in handling noise-driven dynamics should be seen as an invitation to collective exploration. Different computational frameworks – whether reservoir computing, SINDy, or yet-to-be-discovered architectures – might offer complementary strengths when properly adapted. 
 
