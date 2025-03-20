@@ -41,7 +41,7 @@ In order to facilitate the distinction, we divided the code into 4 folders:
 
 ## Data
 
-When we trained the RC, some matrics would be saved in a path, and we would load them in the predicting phase. We divided the data into several folders, the folder with the same name as in the code means that the data here points to this folder.
+When we trained the RC, some matrics would be saved in a path, and we would load them in the predicting phase. Due to the inherent randomness in the matrices of RC as noted in Gauthier et al. (2021), "Usingrandom matrices in an RC presents problems: many perform well, but others donot all. To avoid the randomness in the RC matrices, **we recommend that you run the provided matrices for reproducibility**. We divided the data into several folders, the folder with the same name as in the code means that the data here points to this folder.
 
 ## Example
 
